@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.smuralee</groupId>
-	<artifactId>app-reactive</artifactId>
+	<artifactId>reactive-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>app-reactive</name>
 	<description>Demo application using Spring Boot</description>
